@@ -1,0 +1,5 @@
+node_modules
+Gemfile.lock
+public/*
+haha.sh
+.sass-cache

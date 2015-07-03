@@ -1,0 +1,17 @@
+{
+  "name": "atoos-app",
+  "version": "0.0.1",
+  "description": "This is the beta Atoos web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ardeshir Eshghi",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-compass": "~2.1.0",
+    "gulp-minify-css": "~1.2.0",
+    "gulp-watch": "~4.2.4"
+  }
+}
